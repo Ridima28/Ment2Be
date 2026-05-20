@@ -142,7 +142,7 @@ const LandingFooter = () => {
         {/* Social Media */}
         
         {/* Bottom Bar */} 
-        <div className="border-t border-slate-200 dark:border-gray-800 pt-8 mt-8 text-center">
+        <div className="border-t mb-4 border-slate-200 dark:border-gray-800 pt-8 mt-8 text-center">
           <p className="text-slate-500 dark:text-gray-500 text-sm">
             © 2026 Ment2Be. All rights reserved.
           </p>
